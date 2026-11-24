@@ -4,7 +4,7 @@
 
 ## 下载与运行
 
-1. 从 [Releases](https://github.com/wangbahe/DeltaForceToolbox/releases) 下载 `三角洲助手.exe`。
+1. 从 [Releases](https://github.com/wangbahe/DeltaForceToolbox/releases) 下载 `DeltaForceToolbox.exe`。
 2. 使用 Windows x64，并安装 [.NET 8 桌面运行时（x64）](https://dotnet.microsoft.com/download/dotnet/8.0)。内置网页需要 [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/microsoft-edge/webview2/)。
 3. 双击 EXE。要随游戏启动和退出，在「设置 → 启动方式」选择对应选项。
 
